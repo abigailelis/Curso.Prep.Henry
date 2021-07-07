@@ -1,0 +1,12 @@
+    * Variables: 
+         Una variable es aquello que utilizamos cuando queremos almacenar información. Podemos darle un valor para usarlo mas adelante. Existen diferentes tipos de datos, como los numéricos, textos, operadores, entre otros. 
+	* Strings: 
+	     Este termino se utiliza para los bloques de texto o palabras. Para declarar un string debemos hacerlo mediante comillas simples o dobles. 
+	* Funciones (argumentos, `return`)
+        las funciones son métodos que sirven para facilitar el trabajo a la hora de programar ya que son tareas que le pedimos al programa que realice por nosotros, dependiendo de la información que reciba. Sirven por ejemplo para hacer cálculos. 
+        Los argumentos de una función son variables que se utilizan para determinadas funciones.
+        Return, como lo dice la palabra, retorna o devuelve una respuesta dependiendo de la información que reciba el programa. 
+	* Declaraciones `if`
+		Una declaración if es aquella que utilizamos para determinar en una función que a la hora de ejecutarse debe respetar la condición que nosotros pongamos. If en español se traduce como 'si', es decir, 'if' (condicion){hacer tal tarea} seria por ejemplo 'if'(x < y){return true}
+	* Valores booleanos (`true`, `false`)
+		Un valor booleano es aquel que tiene solo dos posibles respuestas, como por ejemplo (verdadero-falso / si-no / true-false). 
